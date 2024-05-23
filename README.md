@@ -20,13 +20,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
--  1: Create a Resource Group in Azure
--  2: Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-
-        a. When creating the VM, allow it to create a new Virtual Network (Vnet)
-
-  ______________________________________________________________________________________________________________________
-<h2>Installation Steps</h2>
 
 - Step 1: Install / Enable IIS in Windows WITH CGI and Common HTTP Features and IIS Management Console
 
@@ -37,6 +30,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Step 6: Instal My SQL (Open IIS as an admin, Register PHP from within IIS, Reload IIS: Open IIS, Stop and Start the server) 
 - Step 7: Install osTicket (Open IIS Stop and Start the server)
 - Step 8: Install Heidi SQL
+  ______________________________________________________________________________________________________________________
+<h2>Installation Steps</h2>
+
+
   ______________________________________________________________________________________________________________________
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
