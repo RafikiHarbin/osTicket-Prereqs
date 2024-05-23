@@ -20,8 +20,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Step 1: Create a Resource Group in Azure
+- Step 2: Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
+
+        a. When creating the VM, allow it to create a new Virtual Network (Vnet)
 - Item 3
 - Item 4
 - Item 5
