@@ -50,8 +50,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+![VM osTicket](https://github.com/user-attachments/assets/60c3af50-6857-406b-b73b-faa788ee13bb)
 
-![image](https://github.com/user-attachments/assets/dce79b6e-c1cf-4c5b-916b-3fd5a1f6d234)
+
 
 
 ![image](https://github.com/user-attachments/assets/00133656-8e6a-4339-a4c1-72d734797bde)
