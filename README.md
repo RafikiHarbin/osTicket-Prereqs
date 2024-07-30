@@ -57,6 +57,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Remote Desktop](https://github.com/user-attachments/assets/79da6b76-2ca0-4d67-b2a9-dbe9e329bc6a)
 
 
+
 3.) Once you have connected to your virtual machine you will want to go to your control panel. From the control panel open up programs. Select, Turn Windows features on and off.
 
 
